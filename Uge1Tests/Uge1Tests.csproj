@@ -21,4 +21,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SmartLearning\Uge1 Rabat.csproj" />
+  </ItemGroup>
+
 </Project>
