@@ -8,39 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DavidChristoffersen\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\ASA-DC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DavidChristoffersen\\source\\repos\\SmartLearning\\SmartLearning\\Uge1 Rabat.csproj",
-      "projectName": "Uge1 Rabat",
-      "projectPath": "C:\\Users\\DavidChristoffersen\\source\\repos\\SmartLearning\\SmartLearning\\Uge1 Rabat.csproj",
-      "packagesPath": "C:\\Users\\DavidChristoffersen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DavidChristoffersen\\source\\repos\\SmartLearning\\SmartLearning\\obj\\",
+      "projectUniqueName": "C:\\Repos\\SmartLearning\\Uge1Rabat.csproj",
+      "projectName": "Uge1Rabat",
+      "projectPath": "C:\\Repos\\SmartLearning\\Uge1Rabat.csproj",
+      "packagesPath": "C:\\Users\\ASA-DC\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\SmartLearning\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DavidChristoffersen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\ASA-DC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/dyaLNz2xZzZ5QufwiWca9OALOYK7lXkm8gkn2K2LNNa9BOXfWN/api": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -63,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -72,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

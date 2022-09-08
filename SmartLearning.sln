@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uge1 Rabat", "SmartLearning\Uge1 Rabat.csproj", "{2FD20A4D-59B6-47D3-9531-34D41BCE4137}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uge1Rabat", "SmartLearning\Uge1Rabat.csproj", "{2FD20A4D-59B6-47D3-9531-34D41BCE4137}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SMUge1", "SMUge1", "{CB3C3E97-FF08-4596-BFB7-4CE68EC1DEAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uge1Tests", "Uge1Tests\Uge1Tests.csproj", "{0CED54FC-BB63-4589-BDF0-46BA59AB3BC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uge1Tests", "Uge1Tests\Uge1Tests.csproj", "{0CED54FC-BB63-4589-BDF0-46BA59AB3BC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
