@@ -26,5 +26,18 @@
             }
             return result;
         }
+        public decimal EksempelTagetFraJesper(decimal distance, decimal vægt)
+        {
+            decimal result;
+            if (distance < MaxDistance)
+            {
+                result = (vægt < MaxVægt) ? LowPrice : MediumPrice;
+            }
+            else
+            {
+                result = (vægt < MaxVægt) ? HighPrice : DefaultPrice;
+            }
+            return result;
+        }
     }
 }
