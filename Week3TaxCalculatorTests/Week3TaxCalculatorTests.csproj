@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Uge2TransportPris\Uge2TransportPris.csproj" />
+    <ProjectReference Include="..\Week3TaxCalculator\Week3TaxCalculator.csproj" />
   </ItemGroup>
 
 </Project>
