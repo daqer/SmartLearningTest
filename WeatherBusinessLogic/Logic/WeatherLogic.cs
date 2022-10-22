@@ -40,7 +40,7 @@ namespace Weather.Logic
         public string GetSecondPartOfMessage(string temperatureDefinition, decimal temperature)
         {
             
-            return $"since It is going to a be {temperatureDefinition} a day with {temperature}°C";
+            return $"since It is going to a be {temperatureDefinition} a day with {temperature}C";
         }
 
         public string GetThirdPartOfMessage(string condition)

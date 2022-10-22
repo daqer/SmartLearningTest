@@ -26,9 +26,9 @@ namespace Week7Tests
         #endregion
         #region SecondPartOfMessageTests
         [Theory]
-        [InlineData($"since It is going to a be Cold a day with 12°C", "Cold", 12)]
-        [InlineData($"since It is going to a be Average a day with 13°C", "Average", 13)]
-        [InlineData($"since It is going to a be Hot a day with 19°C", "Hot", 19)]
+        [InlineData($"since It is going to a be Cold a day with 12C", "Cold", 12)]
+        [InlineData($"since It is going to a be Average a day with 13C", "Average", 13)]
+        [InlineData($"since It is going to a be Hot a day with 19C", "Hot", 19)]
         public void IsSecondPartOfMessageCorrect(string expectedResult,string temperatureDefinition, decimal temperature)
         {
             var weatherLogic = new WeatherLogic();
